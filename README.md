@@ -54,3 +54,13 @@ This project helps students understand their current skills and identify the ski
 ## 🚀 Project Status
 
 Deployed and available online through Streamlit Community Cloud.
+## 📸 Screenshots
+
+### Student Profile
+![Student Profile](screenshots/profile.png)
+
+### Internship Readiness
+![Internship Readiness](screenshots/readiness.png)
+
+### Skills Analysis
+![Skills Analysis](screenshots/skills.png)
